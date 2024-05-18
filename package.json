@@ -18,5 +18,10 @@
   },
   "dependencies": {
     "gulp-sass": "^5.1.0"
-  }
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "not dead"
+  ]
 }
